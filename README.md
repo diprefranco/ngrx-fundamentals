@@ -20,9 +20,8 @@ Start the application with:<br />
 `npm start`
 
 ## Version Information
-The project was upgraded to use
-- Angular v18
-- NgRx v18
+- Angular v16
+- NgRx v16
 
 ## Course
 This project is part of the [NgRx Fundamentals](https://app.pluralsight.com/library/courses/ngrx-fundamentals/table-of-contents) course on Pluralsight.
