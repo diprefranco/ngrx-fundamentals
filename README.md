@@ -9,7 +9,7 @@ This app implements a basic CRUD using NgRx for state management.
 It is designed as part of the *NgRx Fundamentals* course.
 
 ## Technical Aspects
-- **In-Memory Backend**: The app uses Angular's In-Memory Web API library to simulate a backend server.  
+- **In-Memory Backend**: The app uses Angular's In-Memory Web API library (angular-in-memory-web-api) to simulate a backend server.  
   Changes to data are not persisted and will be lost if you refresh the browser or restart the app.
 
 ## Usage
