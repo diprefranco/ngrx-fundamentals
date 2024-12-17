@@ -20,9 +20,7 @@ Start the application with:<br />
 `npm start`
 
 ## Version Information
-The project was upgraded to use
-- Angular v18
-- NgRx v18
+In order to install NgRx v18 the project has to be upgraded to use Angular v18.
 
 ## Course
 This project is part of the [NgRx Fundamentals](https://app.pluralsight.com/library/courses/ngrx-fundamentals/table-of-contents) course on Pluralsight.
