@@ -19,6 +19,11 @@ export const selectProductsShowProductCode = createSelector(
   (productsState) => productsState.showProductCode
 );
 
+export const selectProductsErrorMessage = createSelector(
+  selectProductsState,
+  (productsState) => productsState.errorMessage
+);
+
 export const selectProductsTotal = createSelector(
   selectProducts,
   //the signature of the projector function is the same as the sumProducts. So we can just pass the function only.
